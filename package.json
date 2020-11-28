@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-tutorial",
+  "version": "1.0.0",
+  "description": "This is my first class of bootstrap",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umar-faruk74/bootstrap-tutorial.git"
+  },
+  "author": "umar faruk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umar-faruk74/bootstrap-tutorial/issues"
+  },
+  "homepage": "https://github.com/umar-faruk74/bootstrap-tutorial#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1"
+  }
+}
